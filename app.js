@@ -19,4 +19,4 @@ addButton.onClick = function(){
     else {
         alert("task cannot be empty!");
     }
-})
+});
